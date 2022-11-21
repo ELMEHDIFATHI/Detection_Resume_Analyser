@@ -1,0 +1,16 @@
+pdfminer3
+pyresparser
+streamlit
+pandas
+pafy
+plotly
+pymysql
+streamlit-tags
+Pillow
+
+#requirment
+# pip install youtube-dl
+#ntlk.dowload()
+# python -m spacy download en_core_web_sm  beug
+# now for vidio fixed eureur
+
